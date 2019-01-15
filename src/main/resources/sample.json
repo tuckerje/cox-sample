@@ -1,0 +1,79 @@
+{
+  "datasetId": "lkOh0d141gg",
+  "answer": {
+    "dealers": [
+      {
+        "dealerId": 938583339,
+        "name": "House of Wheels",
+        "vehicles": [
+          {
+            "vehicleId": 826881669,
+            "year": 2013,
+            "make": "Mitsubishi",
+            "model": "Gallant"
+          },
+          {
+            "vehicleId": 835868634,
+            "year": 2016,
+            "make": "Kia",
+            "model": "Soul"
+          },
+          {
+            "vehicleId": 1257009343,
+            "year": 2009,
+            "make": "Ford",
+            "model": "F150"
+          }
+        ]
+      },
+      {
+        "dealerId": 1655123212,
+        "name": "Doug's Doozies",
+        "vehicles": [
+          {
+            "vehicleId": 2057226584,
+            "year": 2012,
+            "make": "Nissan",
+            "model": "Altima"
+          },
+          {
+            "vehicleId": 1038449477,
+            "year": 2016,
+            "make": "Bentley",
+            "model": "Mulsanne"
+          },
+          {
+            "vehicleId": 1621535719,
+            "year": 1979,
+            "make": "Cheverolet",
+            "model": "Corvette"
+          }
+        ]
+      },
+      {
+        "dealerId": 1237906583,
+        "name": "Bob's Cars",
+        "vehicles": [
+          {
+            "vehicleId": 179954386,
+            "year": 2004,
+            "make": "MINI",
+            "model": "Cooper"
+          },
+          {
+            "vehicleId": 170315743,
+            "year": 2014,
+            "make": "Ford",
+            "model": "F150"
+          },
+          {
+            "vehicleId": 239664409,
+            "year": 2016,
+            "make": "Honda",
+            "model": "Accord"
+          }
+        ]
+      }
+    ]
+  }
+}
